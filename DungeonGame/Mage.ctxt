@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mage
+comment1.params=
+comment1.target=Mage()
+comment2.params=player\ text
+comment2.target=double\ skillOne(Player,\ javax.swing.JTextArea)
+comment3.params=player
+comment3.target=double\ skillTwo(Player)
+comment4.params=player
+comment4.target=double\ skillThree(Player)
+numComments=5

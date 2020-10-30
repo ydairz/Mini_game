@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Combat
+comment1.params=player\ room\ enemy
+comment1.target=Combat(Player,\ Rooms,\ Enemies)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ performAttack()
+comment4.params=player
+comment4.target=int\ condition(Player)
+numComments=5
